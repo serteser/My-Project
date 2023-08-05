@@ -1,0 +1,2 @@
+Welcome to Inar Academy's Git Tutorial!
+We offer courses on various topics!
